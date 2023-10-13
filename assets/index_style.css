@@ -193,6 +193,8 @@ margin:0% 1%;
         position: relative
       }
     #about{
+        display: flex;
+        justify-content: center;
         flex-wrap: wrap;
         width: 80%;
     }
